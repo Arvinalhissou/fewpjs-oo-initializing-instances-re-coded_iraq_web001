@@ -10,3 +10,5 @@ class Lunch{
 class Dinner{
   constructor(salad,soup,entree,_dessert){}
 }
+
+let Breakfast
