@@ -8,5 +8,5 @@ class Lunch{
 }
 
 class Dinner{
-  constructor(salad,soup,entree)
+  constructor(salad,soup,entree,_dessert){}
 }
